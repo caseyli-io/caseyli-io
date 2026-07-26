@@ -65,6 +65,35 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 <br>
 
 
+## 🚀 Projects
+
+<details>
+<summary><b>HR Analytics Dashboard</b> · <a href="https://github.com/caseyli-io/powerbi-hr-analytics" style="color:red;">powerbi-hr-analytics</a></summary>
+<br>
+
+A Power BI project analysing workforce composition, demographics and diversity for a fictional New Zealand bakery business, Aurelia Bakehouse. Report pages include a Cover, an HR at a Glance summary, a Demographic Analysis page, and a Diversity Analysis page.
+
+*All data is fictional and AI-generated — no real employees or personal information involved.*
+
+</details>
+
+<br>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-black?style=flat&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/DAX-6B4C9A?style=flat)
+![Semantic Modelling](https://img.shields.io/badge/Semantic%20Modelling-2E5266?style=flat)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-C9A227?style=flat)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-8A6D3B?style=flat)
+
+<br>
+
+<sub>More projects to be added soon.</sub>
+
+<br>
+
+
 ## 💼 Experience
 
 <details>
@@ -184,6 +213,6 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 </div>
 
 <p align="left">
-  <sub>Last updated <strong>2026-07-26</strong>. 
+  <sub>Last updated <strong>2026-07-27</strong>. 
   <a href="#readme-top">Back to top ↑</a></sub>
 </p>
