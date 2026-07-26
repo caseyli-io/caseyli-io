@@ -8,6 +8,7 @@
 
 </div>
 
+<br>
 
 ## 👋 About me
 
@@ -72,9 +73,11 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 Owned the end-to-end data lifecycle for geospatial research projects, from acquisition and ingestion through to processing, analysis, and delivery. Designed geospatial data engineering solutions and interactive web-based applications, and automated data pipelines that integrated and validated spatial and environmental data from multiple sources. Built risk assessment models that supported infrastructure planning and evidence-based decision-making, worked closely with researchers and stakeholders to translate requirements into scalable solutions. Also led and mentored interns across various project activities. 
 
+</details>
 
-***Core projects:*** [<u>Flood Resilience Digital Twin</u>](https://github.com/GeospatialResearch/Digital-Twins), [<u>Ōtākaro Digital Twin</u>](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
+<br>
 
+*Core projects:* [<u>Flood Resilience Digital Twin</u>](https://github.com/GeospatialResearch/Digital-Twins), [<u>Ōtākaro Digital Twin</u>](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
 <!-- `Python` `R` `PostgreSQL` `PostGIS` `AWS` `Docker` `Git` \ -->
 <!-- `QGIS` `ArcGIS` `City Engine` `Unreal Engine` -->
@@ -85,21 +88,23 @@ Owned the end-to-end data lifecycle for geospatial research projects, from acqui
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) \
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)
 ![City Engine](https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
 <br>
-</details>
-
 
 <details>
 <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i></summary>
 <br>
 
 Tutored and supported students in lab sessions across data science coursework.
+
+</details>
+
+<br>
 
 <!-- `Python` `Data Manipulation` `Apache Hadoop` `Apache Spark` -->
 
@@ -109,8 +114,6 @@ Tutored and supported students in lab sessions across data science coursework.
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 <br>
-</details>
-
 
 <details>
 <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory" style="color:red;">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i></summary>
@@ -118,15 +121,16 @@ Tutored and supported students in lab sessions across data science coursework.
 
 Analysed Airbnb listings across New Zealand, created visualisations and maps to derive insights, identify trends, and track changes over time during the COVID-19 pandemic. Applied machine learning techniques to classify listings into distinct types based on their unique characteristics, then built an interactive R Shiny dashboard to communicate the findings and let users explore the spatial and temporal trends for themselves.
 
+</details>
+
+<br>
+
 <!-- `R` `R Shiny` `Machine Learning` `Data Visualisation` -->
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=flat&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white)
-
-<br>
-</details>
 
 <br>
 
