@@ -183,5 +183,7 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 
 </div>
 
-<sub>Last updated <strong>2026-07-26</strong>. [Back to top](#readme-top).</sub>
-
+<p align="left">
+  <sub>Last updated <strong>2026-07-26</strong>. 
+  <a href="#readme-top">Back to top ↑</a></sub>
+</p>
