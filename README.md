@@ -1,5 +1,7 @@
 <a id="readme-top"></a>
 
+<div align="justify">
+
 <div align="center">
 
 <img src="assets/cover.svg" width="100%" alt="Casey Li"/>
@@ -9,7 +11,6 @@
 
 ## 👋 About me
 
-<div align="justify">
 
 <!-- <img src="assets/developer-cartoon.png" align="right" width="200" hspace="15" vspace="10" alt="Developer illustration"/> -->
 
@@ -17,7 +18,6 @@ I began my career in accounting and finance, working as a Chartered Accountant, 
 
 What's stayed consistent throughout is an interest in raw, complex, and messy data, whether it's financial records, environmental data, or spatial datasets, and turning it into something reliable and useful. I enjoy cleaning and structuring data, building and automating data pipelines, working across databases, and developing models, dashboards, and reports that hold up under scrutiny. The goal is always the same: **make the data work harder**, so the people relying on it can make better decisions with less effort.
 
-</div>
 
 <div align="center">
 
@@ -32,9 +32,17 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 <table>
 <tr>
-<td width="50%"><img src="https://skillicons.dev/icons?i=python,r,julia" width="100%" alt="Programming Languages"><p align="center"><sub><b>Programming Languages</b></sub></p></td>
-<td width="50%"><img src="https://skillicons.dev/icons?i=postgres,mysql,aws" width="100%" alt="Databases & Cloud Storage"><p align="center"><sub><b>Databases & Cloud Storage</b></sub></p></td>
+<td width="50%" align="center">
+<img src="https://skillicons.dev/icons?i=python,r,julia" width="220" alt="Programming Languages">
+<p align="center"><sub><b>Programming Languages</b></sub></p>
+</td>
+
+<td width="50%" align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" width="220" alt="Databases & Cloud Storage">
+<p align="center"><sub><b>Databases & Cloud Storage</b></sub></p>
+</td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
 <img src="https://img.shields.io/badge/R%20Shiny-4285F4?style=for-the-badge&logo=r&logoColor=white"/>
@@ -42,6 +50,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <p align="center"><sub><b>Business Intelligence & Reporting</b></sub></p>
 </td>
+
 <td width="50%" align="center">
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
 <img src="https://img.shields.io/badge/CityEngine-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
@@ -168,4 +177,7 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 
 <br>
 
+</div>
+
 <sub>Last updated <strong>2026-07-26</strong>. [Back to top](#readme-top).</sub>
+
