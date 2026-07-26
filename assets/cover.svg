@@ -11,10 +11,20 @@
     <stop offset="50%" stop-color="#ff6ac1"/>
     <stop offset="100%" stop-color="#00d9ff"/>
   </linearGradient>
+  <linearGradient id="role-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00d9ff"/>
+    <stop offset="50%" stop-color="#ff6ac1"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
   <radialGradient id="glow" cx="50%" cy="50%" r="50%">
     <stop offset="0%" stop-color="#ff6ac1" stop-opacity="0.3"/>
     <stop offset="100%" stop-color="#ff6ac1" stop-opacity="0"/>
   </radialGradient>
+  <linearGradient id="cometTrail" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="-36" y2="-21">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ffffff" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
   <clipPath id="frame">
     <rect x="0" y="0" width="1280" height="380" rx="18"/>
   </clipPath>
@@ -26,6 +36,80 @@
   <!-- soft glow accents, symmetric -->
   <circle cx="120" cy="190" r="200" fill="url(#glow)" opacity="0.45"/>
   <circle cx="1160" cy="190" r="200" fill="url(#glow)" opacity="0.45"/>
+
+  <!-- colorful scattered dot field -->
+  <g>
+    <circle cx="30" cy="20" r="2.6" fill="#ff6ac1" opacity="0.55"/>
+    <circle cx="70" cy="45" r="1.8" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="110" cy="18" r="2.2" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="150" cy="55" r="1.6" fill="#fe4a49" opacity="0.45"/>
+    <circle cx="195" cy="25" r="2.4" fill="#00d9ff" opacity="0.55"/>
+    <circle cx="235" cy="50" r="1.7" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="30" cy="90" r="2" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="75" cy="115" r="2.4" fill="#ff6ac1" opacity="0.55"/>
+    <circle cx="120" cy="88" r="1.7" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="30" cy="160" r="2.2" fill="#fe4a49" opacity="0.5"/>
+    <circle cx="70" cy="185" r="1.8" fill="#a78bfa" opacity="0.45"/>
+    <circle cx="115" cy="155" r="2.4" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="25" cy="230" r="1.8" fill="#ff6ac1" opacity="0.5"/>
+    <circle cx="65" cy="255" r="2.2" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="105" cy="225" r="1.6" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="35" cy="300" r="2.4" fill="#fe4a49" opacity="0.5"/>
+    <circle cx="80" cy="330" r="1.8" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="125" cy="300" r="2" fill="#00d9ff" opacity="0.5"/>
+
+    <circle cx="1050" cy="20" r="2.4" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="1090" cy="48" r="1.7" fill="#ff6ac1" opacity="0.5"/>
+    <circle cx="1130" cy="20" r="2.2" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="1170" cy="55" r="1.8" fill="#fe4a49" opacity="0.45"/>
+    <circle cx="1210" cy="25" r="2.4" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="1245" cy="55" r="1.6" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="1045" cy="95" r="2" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="1085" cy="120" r="2.3" fill="#ff6ac1" opacity="0.5"/>
+    <circle cx="1130" cy="90" r="1.7" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="1050" cy="165" r="2.2" fill="#fe4a49" opacity="0.5"/>
+    <circle cx="1090" cy="190" r="1.8" fill="#a78bfa" opacity="0.45"/>
+    <circle cx="1135" cy="160" r="2.4" fill="#00d9ff" opacity="0.5"/>
+    <circle cx="1045" cy="235" r="1.8" fill="#ff6ac1" opacity="0.5"/>
+    <circle cx="1085" cy="260" r="2.2" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="1125" cy="230" r="1.6" fill="#a78bfa" opacity="0.5"/>
+    <circle cx="1055" cy="305" r="2.4" fill="#fe4a49" opacity="0.5"/>
+    <circle cx="1100" cy="335" r="1.8" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="1145" cy="305" r="2" fill="#00d9ff" opacity="0.5"/>
+
+    <circle cx="500" cy="30" r="1.6" fill="#a78bfa" opacity="0.35"/>
+    <circle cx="560" cy="15" r="1.4" fill="#ff6ac1" opacity="0.3"/>
+    <circle cx="720" cy="20" r="1.6" fill="#00d9ff" opacity="0.35"/>
+    <circle cx="780" cy="30" r="1.4" fill="#a78bfa" opacity="0.3"/>
+    <circle cx="510" cy="355" r="1.6" fill="#00d9ff" opacity="0.35"/>
+    <circle cx="770" cy="355" r="1.6" fill="#ff6ac1" opacity="0.35"/>
+
+    <!-- extra top strip, full width -->
+    <circle cx="270" cy="12" r="2" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="315" cy="35" r="1.6" fill="#ff6ac1" opacity="0.4"/>
+    <circle cx="360" cy="15" r="2.2" fill="#a78bfa" opacity="0.45"/>
+    <circle cx="405" cy="40" r="1.5" fill="#fe4a49" opacity="0.4"/>
+    <circle cx="450" cy="18" r="1.9" fill="#00d9ff" opacity="0.4"/>
+    <circle cx="620" cy="14" r="2" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="665" cy="38" r="1.6" fill="#a78bfa" opacity="0.4"/>
+    <circle cx="835" cy="16" r="2.1" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="880" cy="40" r="1.5" fill="#fe4a49" opacity="0.4"/>
+    <circle cx="925" cy="20" r="1.8" fill="#ff6ac1" opacity="0.4"/>
+    <circle cx="970" cy="45" r="1.6" fill="#a78bfa" opacity="0.35"/>
+
+    <!-- extra bottom strip, full width -->
+    <circle cx="270" cy="368" r="2" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="315" cy="345" r="1.6" fill="#00d9ff" opacity="0.4"/>
+    <circle cx="360" cy="365" r="2.2" fill="#fe4a49" opacity="0.45"/>
+    <circle cx="405" cy="340" r="1.5" fill="#a78bfa" opacity="0.4"/>
+    <circle cx="450" cy="362" r="1.9" fill="#ff6ac1" opacity="0.4"/>
+    <circle cx="620" cy="366" r="2" fill="#00d9ff" opacity="0.45"/>
+    <circle cx="665" cy="342" r="1.6" fill="#fe4a49" opacity="0.4"/>
+    <circle cx="835" cy="364" r="2.1" fill="#ff6ac1" opacity="0.45"/>
+    <circle cx="880" cy="340" r="1.5" fill="#a78bfa" opacity="0.4"/>
+    <circle cx="925" cy="360" r="1.8" fill="#00d9ff" opacity="0.4"/>
+    <circle cx="970" cy="335" r="1.6" fill="#fe4a49" opacity="0.35"/>
+  </g>
 
   <!-- faint geospatial grid -->
   <g stroke="#3a3550" stroke-width="1" opacity="0.35">
@@ -45,6 +129,28 @@
       values="0 0; 1400 0" dur="6s" begin="1s" repeatCount="indefinite"/>
   </rect>
 
+  <!-- shooting stars, all falling the same diagonal direction -->
+  <g>
+    <g transform="translate(150,10)">
+      <polygon points="0,-1.3 0,1.3 -36,-21" fill="url(#cometTrail)"/>
+      <circle r="1.8" fill="#ffffff"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 110,65; 110,65" keyTimes="0;0.4;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.32;0.42;1" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(430,15)">
+      <polygon points="0,-1.1 0,1.1 -30,-17.5" fill="url(#cometTrail)"/>
+      <circle r="1.5" fill="#ffffff"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 90,53; 90,53" keyTimes="0;0.4;1" dur="6.5s" begin="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.32;0.42;1" dur="6.5s" begin="2.1s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(720,10)">
+      <polygon points="0,-1.4 0,1.4 -40,-23.5" fill="url(#cometTrail)"/>
+      <circle r="1.9" fill="#ffffff"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 120,71; 120,71" keyTimes="0;0.4;1" dur="5.8s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.32;0.42;1" dur="5.8s" begin="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
   <!-- centered text block -->
   <g transform="translate(640,190)" text-anchor="middle">
     <g class="reveal-1">
@@ -52,36 +158,53 @@
       <rect x="-115" y="-18" width="230" height="6" rx="3" fill="url(#accent-grad)"/>
     </g>
     <g class="reveal-2">
-      <text x="0" y="40" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#c9c3e0">Geospatial Developer · Data Analyst · BI Developer · Chartered Accountant</text>
+      <text x="0" y="42" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="600" letter-spacing="0.3" fill="url(#role-grad)">Geospatial Developer · Data Analyst · BI Developer · Chartered Accountant</text>
     </g>
     <g class="reveal-3">
-      <text x="0" y="90" font-family="Verdana, Geneva, sans-serif" font-size="15" fill="#8b84a8">Make the data work harder.</text>
+      <text x="0" y="88" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#8b84a8">Make the data work harder.</text>
     </g>
   </g>
 
-  <!-- decorative icons, outer margins only, low opacity -->
-  <g opacity="0.75">
-    <g class="drift-a" transform="translate(55,110)">
-      <circle r="24" fill="#262138" stroke="#ff6ac1" stroke-width="2"/>
-      <path d="M0,-11 C7,-11 12,-6 12,1 C12,9 0,20 0,20 C0,20 -12,9 -12,1 C-12,-6 -7,-11 0,-11 Z" fill="#ff6ac1" transform="scale(0.55)"/>
-      <circle cx="0" cy="-4.5" r="2.4" fill="#1a1b27" transform="scale(0.55)"/>
+  <!-- floating icon badges, one per title, staggered + tilted, always visible -->
+  <g>
+    <!-- Geospatial Developer: map pin (top-left, pink) -->
+    <g transform="translate(105,95) rotate(-9)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-12; 0,0" dur="4s" repeatCount="indefinite"/>
+      <circle r="32" fill="#2f2a45" stroke="#ff6ac1" stroke-width="2.5"/>
+      <circle r="32" fill="url(#glow)" opacity="0.5"/>
+      <path d="M0,-15 C10,-15 17,-8 17,1 C17,13 0,28 0,28 C0,28 -17,13 -17,1 C-17,-8 -10,-15 0,-15 Z" fill="#ff6ac1"/>
+      <circle cx="0" cy="0" r="5.5" fill="#2f2a45"/>
     </g>
 
-    <g class="drift-b" transform="translate(1225,110)">
-      <rect x="-24" y="-4" width="10" height="24" rx="2" fill="#00d9ff"/>
-      <rect x="-10" y="-16" width="10" height="36" rx="2" fill="#ff6ac1"/>
-      <rect x="4" y="-24" width="10" height="44" rx="2" fill="#fe4a49"/>
+    <!-- Data Analyst: tri-color bars (top-right, cyan) -->
+    <g transform="translate(1140,110) rotate(8)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-9; 0,0" dur="4.6s" begin="0.4s" repeatCount="indefinite"/>
+      <circle r="32" fill="#2f2a45" stroke="#00d9ff" stroke-width="2.5"/>
+      <circle r="32" fill="url(#glow)" opacity="0.5"/>
+      <rect x="-16" y="2" width="9" height="16" rx="2" fill="#00d9ff"/>
+      <rect x="-4.5" y="-10" width="9" height="28" rx="2" fill="#ff6ac1"/>
+      <rect x="7" y="-4" width="9" height="22" rx="2" fill="#fe4a49"/>
     </g>
 
-    <g class="drift-c" transform="translate(1210,290)">
-      <rect x="-6" y="-6" width="12" height="12" rx="2" fill="#c9c3e0"/>
-      <rect x="-20" y="-3" width="12" height="6" fill="#8b84a8"/>
-      <rect x="8" y="-3" width="12" height="6" fill="#8b84a8"/>
-      <line x1="4" y1="4" x2="14" y2="14" stroke="#c9c3e0" stroke-width="2"/>
+    <!-- BI Developer: dashboard monitor (bottom-left, purple) -->
+    <g transform="translate(150,285) rotate(11)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-11; 0,0" dur="4.2s" begin="0.9s" repeatCount="indefinite"/>
+      <circle r="32" fill="#2f2a45" stroke="#a78bfa" stroke-width="2.5"/>
+      <circle r="32" fill="url(#glow)" opacity="0.5"/>
+      <rect x="-15" y="-13" width="30" height="20" rx="3" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
+      <rect x="-9" y="-3" width="4.5" height="8" fill="#ff6ac1"/>
+      <rect x="-2" y="-7" width="4.5" height="12" fill="#00d9ff"/>
+      <rect x="5" y="-5" width="4.5" height="10" fill="#fe4a49"/>
+      <line x1="0" y1="7" x2="0" y2="12" stroke="#a78bfa" stroke-width="2.5"/>
+      <line x1="-6" y1="12" x2="6" y2="12" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
     </g>
 
-    <g class="drift-d" transform="translate(60,290)">
-      <text font-family="Verdana, Geneva, sans-serif" font-size="24" fill="#8b84a8" text-anchor="middle">&lt;/&gt;</text>
+    <!-- Chartered Accountant: dollar sign (bottom-right, red/orange) -->
+    <g transform="translate(1190,265) rotate(-7)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-10; 0,0" dur="5s" begin="0.2s" repeatCount="indefinite"/>
+      <circle r="32" fill="#2f2a45" stroke="#fe4a49" stroke-width="2.5"/>
+      <circle r="32" fill="url(#glow)" opacity="0.5"/>
+      <text x="0" y="11" font-family="Verdana, Geneva, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#fe4a49">$</text>
     </g>
   </g>
 
@@ -99,15 +222,6 @@
     from { opacity: 0; transform: translateY(14px); }
     to   { opacity: 1; transform: translateY(0); }
   }
-
-  .drift-a { animation: driftA 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-  .drift-b { animation: driftB 4.6s ease-in-out infinite 0.3s; transform-box: fill-box; transform-origin: center; }
-  .drift-c { animation: driftC 3.6s ease-in-out infinite 0.6s; transform-box: fill-box; transform-origin: center; }
-  .drift-d { animation: driftD 5s ease-in-out infinite 0.2s; transform-box: fill-box; transform-origin: center; }
-  @keyframes driftA { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-4deg); } }
-  @keyframes driftB { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
-  @keyframes driftC { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-6px) rotate(6deg); } }
-  @keyframes driftD { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
 
   .blink-1, .blink-2, .blink-3 { animation: blink 3s ease-in-out infinite; }
   .blink-2 { animation-delay: 0.6s; }
