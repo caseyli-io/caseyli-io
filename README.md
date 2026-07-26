@@ -7,7 +7,7 @@
 
 ## 👋 About me
 
-<!-- <img src="assets/developer-cartoon.png" align="right" width="200" hspace="15" vspace="10" alt="Developer illustration"/> -->
+<img src="assets/developer-cartoon.png" align="right" width="200" hspace="15" vspace="10" alt="Developer illustration"/>
 
 I began my career in accounting and finance, working as a Chartered Accountant, before moving into data science to deepen my analytical and technical skill set. That led me to a *Master of Applied Data Science*, and from there into geospatial development, building data engineering solutions and interactive tools for infrastructure planning and research. Along the way, that work pulled me further into software development, and I'm now studying part time towards a *Master of Applied Computing* to build on that foundation.
 
@@ -18,6 +18,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 🗣️ English & Chinese Mandarin 📍 Christchurch, New Zealand
 
 </div>
+
+<br>
 
 
 ## 🛠️ Tech stack
@@ -44,6 +46,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 </tr>
 </table>
 
+<br>
+
 
 ## 💼 Experience
 
@@ -58,7 +62,7 @@ Owned the end-to-end data lifecycle for geospatial research projects, from acqui
 
 
 <!-- `Python` `R` `PostgreSQL` `PostGIS` `AWS` `Docker` `Git` \ -->
-`QGIS` `ArcGIS` `City Engine` `Unreal Engine`
+<!-- `QGIS` `ArcGIS` `City Engine` `Unreal Engine` -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -109,6 +113,8 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 <br>
 </details>
 
+<br>
+
 
 ## 🎓 Education
 
@@ -116,14 +122,18 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 - **Graduate Diploma of Chartered Accounting** — Chartered Accountants Australia & New Zealand
 - **Bachelor of Commerce** *(Accounting and Taxation, and Finance)* — University of Canterbury
 
+<br>
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=caseyli-io,caseyli92&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&custom_title=Casey's%20GitHub%20Stats" width="60%" alt="Casey's Combined GitHub Stats (caseyli-io + caseyli92)"/>
+<img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=caseyli-io,caseyli92&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&custom_title=Casey's%20GitHub%20Stats" width="50%" alt="Casey's Combined GitHub Stats (caseyli-io + caseyli92)"/>
 
 </div>
+
+<br>
 
 
 ## 🌐 Connect with me
