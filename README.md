@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <div align="center">
 
 <img src="assets/cover.svg" width="100%" alt="Casey Li"/>
@@ -7,11 +9,15 @@
 
 ## 👋 About me
 
+<div align="justify">
+
 <!-- <img src="assets/developer-cartoon.png" align="right" width="200" hspace="15" vspace="10" alt="Developer illustration"/> -->
 
 I began my career in accounting and finance, working as a Chartered Accountant, before moving into data science to deepen my analytical and technical skill set. That led me to a *Master of Applied Data Science*, and from there into geospatial development, building data engineering solutions and interactive tools for infrastructure planning and research. Along the way, that work pulled me further into software development, and I'm now studying part time towards a *Master of Applied Computing* to build on that foundation.
 
 What's stayed consistent throughout is an interest in raw, complex, and messy data, whether it's financial records, environmental data, or spatial datasets, and turning it into something reliable and useful. I enjoy cleaning and structuring data, building and automating data pipelines, working across databases, and developing models, dashboards, and reports that hold up under scrutiny. The goal is always the same: **make the data work harder**, so the people relying on it can make better decisions with less effort.
+
+</div>
 
 <div align="center">
 
@@ -160,3 +166,6 @@ Analysed Airbnb listings across New Zealand, created visualisations and maps to 
 
 </div>
 
+<br>
+
+<sub>Last updated <strong>2026-07-26</strong>. [Back to top](#readme-top).</sub>
