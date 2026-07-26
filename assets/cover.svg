@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
+<desc>Animated GitHub profile cover for Casey Li — geospatial + data themed, dark radical palette, centered layout</desc>
+<defs>
+  <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1a1b27"/>
+    <stop offset="55%" stop-color="#1f1b2e"/>
+    <stop offset="100%" stop-color="#262138"/>
+  </linearGradient>
+  <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#fe4a49"/>
+    <stop offset="50%" stop-color="#ff6ac1"/>
+    <stop offset="100%" stop-color="#00d9ff"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ff6ac1" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#ff6ac1" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="frame">
+    <rect x="0" y="0" width="1280" height="380" rx="18"/>
+  </clipPath>
+</defs>
+
+<g clip-path="url(#frame)">
+  <rect width="1280" height="380" fill="url(#bg-grad)"/>
+
+  <!-- soft glow accents, symmetric -->
+  <circle cx="120" cy="190" r="200" fill="url(#glow)" opacity="0.45"/>
+  <circle cx="1160" cy="190" r="200" fill="url(#glow)" opacity="0.45"/>
+
+  <!-- faint geospatial grid -->
+  <g stroke="#3a3550" stroke-width="1" opacity="0.35">
+    <line x1="0" y1="60" x2="1280" y2="60"/>
+    <line x1="0" y1="140" x2="1280" y2="140"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/>
+    <line x1="0" y1="320" x2="1280" y2="320"/>
+    <line x1="160" y1="0" x2="160" y2="380"/>
+    <line x1="420" y1="0" x2="420" y2="380"/>
+    <line x1="860" y1="0" x2="860" y2="380"/>
+    <line x1="1120" y1="0" x2="1120" y2="380"/>
+  </g>
+
+  <!-- animated scan sweep -->
+  <rect x="-120" y="0" width="120" height="380" fill="url(#accent-grad)" opacity="0.06">
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 1400 0" dur="6s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- centered text block -->
+  <g transform="translate(640,190)" text-anchor="middle">
+    <g class="reveal-1">
+      <text x="0" y="-35" font-family="Verdana, Geneva, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Casey Li</text>
+      <rect x="-115" y="-18" width="230" height="6" rx="3" fill="url(#accent-grad)"/>
+    </g>
+    <g class="reveal-2">
+      <text x="0" y="40" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#c9c3e0">Geospatial Developer · Data Analyst · BI Developer · Chartered Accountant</text>
+    </g>
+    <g class="reveal-3">
+      <text x="0" y="90" font-family="Verdana, Geneva, sans-serif" font-size="15" fill="#8b84a8">Make the data work harder.</text>
+    </g>
+  </g>
+
+  <!-- decorative icons, outer margins only, low opacity -->
+  <g opacity="0.75">
+    <g class="drift-a" transform="translate(55,110)">
+      <circle r="24" fill="#262138" stroke="#ff6ac1" stroke-width="2"/>
+      <path d="M0,-11 C7,-11 12,-6 12,1 C12,9 0,20 0,20 C0,20 -12,9 -12,1 C-12,-6 -7,-11 0,-11 Z" fill="#ff6ac1" transform="scale(0.55)"/>
+      <circle cx="0" cy="-4.5" r="2.4" fill="#1a1b27" transform="scale(0.55)"/>
+    </g>
+
+    <g class="drift-b" transform="translate(1225,110)">
+      <rect x="-24" y="-4" width="10" height="24" rx="2" fill="#00d9ff"/>
+      <rect x="-10" y="-16" width="10" height="36" rx="2" fill="#ff6ac1"/>
+      <rect x="4" y="-24" width="10" height="44" rx="2" fill="#fe4a49"/>
+    </g>
+
+    <g class="drift-c" transform="translate(1210,290)">
+      <rect x="-6" y="-6" width="12" height="12" rx="2" fill="#c9c3e0"/>
+      <rect x="-20" y="-3" width="12" height="6" fill="#8b84a8"/>
+      <rect x="8" y="-3" width="12" height="6" fill="#8b84a8"/>
+      <line x1="4" y1="4" x2="14" y2="14" stroke="#c9c3e0" stroke-width="2"/>
+    </g>
+
+    <g class="drift-d" transform="translate(60,290)">
+      <text font-family="Verdana, Geneva, sans-serif" font-size="24" fill="#8b84a8" text-anchor="middle">&lt;/&gt;</text>
+    </g>
+  </g>
+
+  <!-- blinking node dots along grid -->
+  <circle class="blink-1" cx="160" cy="60" r="4" fill="#ff6ac1"/>
+  <circle class="blink-2" cx="1120" cy="240" r="4" fill="#00d9ff"/>
+  <circle class="blink-3" cx="420" cy="320" r="4" fill="#fe4a49"/>
+</g>
+
+<style>
+  .reveal-1 { animation: fadeUp 0.7s cubic-bezier(0.34,1.56,0.64,1) 0s 1 both; }
+  .reveal-2 { animation: fadeUp 0.7s cubic-bezier(0.34,1.56,0.64,1) 0.15s 1 both; }
+  .reveal-3 { animation: fadeUp 0.7s cubic-bezier(0.34,1.56,0.64,1) 0.3s 1 both; }
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .drift-a { animation: driftA 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .drift-b { animation: driftB 4.6s ease-in-out infinite 0.3s; transform-box: fill-box; transform-origin: center; }
+  .drift-c { animation: driftC 3.6s ease-in-out infinite 0.6s; transform-box: fill-box; transform-origin: center; }
+  .drift-d { animation: driftD 5s ease-in-out infinite 0.2s; transform-box: fill-box; transform-origin: center; }
+  @keyframes driftA { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-4deg); } }
+  @keyframes driftB { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+  @keyframes driftC { 0%,100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-6px) rotate(6deg); } }
+  @keyframes driftD { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
+
+  .blink-1, .blink-2, .blink-3 { animation: blink 3s ease-in-out infinite; }
+  .blink-2 { animation-delay: 0.6s; }
+  .blink-3 { animation-delay: 1.2s; }
+  @keyframes blink { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
+</style>
+</svg>
