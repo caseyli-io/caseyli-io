@@ -71,7 +71,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 <summary><b>HR Analytics Dashboard</b> · <a href="https://github.com/caseyli-io/powerbi-hr-analytics" style="color:red;">powerbi-hr-analytics</a></summary>
 <br>
 
-A Power BI project analysing workforce composition, demographics and diversity for a fictional New Zealand bakery business, Aurelia Bakehouse. Report pages include a Cover, an HR at a Glance summary, a Demographic Analysis page, and a Diversity Analysis page.
+A Power BI project analysing workforce composition, demographics, and diversity for a fictional New Zealand bakery business, Aurelia Bakehouse. The report features a Cover page, an HR at a Glance summary, a Demographic Analysis page, and a Diversity Analysis page.
 
 *All data is fictional and AI-generated — no real employees or personal information involved.*
 
