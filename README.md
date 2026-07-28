@@ -99,6 +99,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   </tr>
 </table>
 
+<br>
+
 <table width="100%">
   <tr>
     <th colspan="2" align="left">
@@ -138,6 +140,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
     </td>
   </tr>
 </table>
+
+<br>
 
 <sub>More projects to be added soon.</sub>
 
