@@ -146,8 +146,6 @@ A Power BI project analysing sales performance and key KPIs for Aurelia Bakehous
   </tr>
 </table>
 
-<br>
-
 <sub>More projects to be added soon.</sub>
 
 <br>
