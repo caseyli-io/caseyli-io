@@ -122,7 +122,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   ![City Engine](https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white) 
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
-  *Core projects:* [<u>Flood Resilience Digital Twin</u>](https://github.com/GeospatialResearch/Digital-Twins), [<u>Ōtākaro Digital Twin</u>](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
+  *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
   </summary>
 
