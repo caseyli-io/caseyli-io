@@ -128,15 +128,11 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
   </summary>
 
-  <div style="margin-left: 20px;">
-
   Owned the end-to-end data lifecycle for geospatial research projects, from acquisition and ingestion through to processing, analysis, and delivery. Designed geospatial data engineering solutions and interactive web-based applications, and automated data pipelines that integrated and validated spatial and environmental data from multiple sources. Built risk assessment models that supported infrastructure planning and evidence-based decision-making, worked closely with researchers and stakeholders to translate requirements into scalable solutions. Also led and mentored interns across various project activities. 
 
   *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
   
   <br>
-
-   </div>
 
 </details>
 
@@ -155,13 +151,9 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
   </summary>
 
-  <div style="margin-left: 20px;">
-
   Tutored and supported students in lab sessions across data science coursework.
 
   <br>
-
-  </div>
 
 </details>
 
@@ -169,14 +161,11 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
   <br><br>
 
-  <div style="margin-left: 20px;">
-
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   ![R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=flat&logo=r&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
   ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white)
   
-  </div>
 
   </summary>
 
