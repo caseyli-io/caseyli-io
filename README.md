@@ -31,35 +31,32 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 ## 🛠️ Tech stack
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://skillicons.dev/icons?i=python,r,julia" width="220" alt="Programming Languages">
-<p align="center"><sub><b>Programming Languages</b></sub></p>
-</td>
-
-<td width="50%" align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" width="220" alt="Databases & Cloud Storage">
-<p align="center"><sub><b>Databases & Cloud Storage</b></sub></p>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/R%20Shiny-4285F4?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<p align="center"><sub><b>Business Intelligence & Reporting</b></sub></p>
-</td>
-
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/CityEngine-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<p align="center"><sub><b>Geospatial Tools</b></sub></p>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=python,r,julia" width="220" alt="Programming Languages">
+      <p align="center"><sub><b>Programming Languages</b></sub></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,aws" width="220" alt="Databases & Cloud Storage">
+      <p align="center"><sub><b>Databases & Cloud Storage</b></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/R%20Shiny-4285F4?style=for-the-badge&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+      <p align="center"><sub><b>Business Intelligence & Reporting</b></sub></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CityEngine-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+      <p align="center"><sub><b>Geospatial Tools</b></sub></p>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -111,7 +108,7 @@ A Power BI project analysing sales performance and key KPIs for Aurelia Bakehous
 
 <br> -->
 
-<table>
+<table width="100%">
   <tr>
     <th colspan="2" align="left">
       <span style="font-size:17px; font-weight:800; color:#F2C811; letter-spacing:1px;">POWER BI</span>
