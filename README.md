@@ -31,7 +31,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 ## 🛠️ Tech stack
 
-<table width="100%" style="table-layout:fixed;">
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://skillicons.dev/icons?i=python,r,julia" width="220" alt="Programming Languages">
