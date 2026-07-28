@@ -125,6 +125,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 
   <br>
+  <br>
 
   *Core projects:* [<u>Flood Resilience Digital Twin</u>](https://github.com/GeospatialResearch/Digital-Twins), [<u>Ōtākaro Digital Twin</u>](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
@@ -134,7 +135,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 </details>
 
-<br>
+<!-- <br> -->
 
 <details>
   <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i>
@@ -148,6 +149,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 
   <br>
+  <br>
 
   </summary>
 
@@ -155,7 +157,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 </details>
 
-<br>
+<!-- <br> -->
 
 <details>
   <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory" style="color:red;">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
@@ -168,6 +170,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning"/> 
   <img src="https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white" alt="Data Visualisation"/>
 
+  <br>
   <br>
   
   </summary>
