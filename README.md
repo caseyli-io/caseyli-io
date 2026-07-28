@@ -133,6 +133,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   Owned the end-to-end data lifecycle for geospatial research projects, from acquisition and ingestion through to processing, analysis, and delivery. Designed geospatial data engineering solutions and interactive web-based applications, and automated data pipelines that integrated and validated spatial and environmental data from multiple sources. Built risk assessment models that supported infrastructure planning and evidence-based decision-making, worked closely with researchers and stakeholders to translate requirements into scalable solutions. Also led and mentored interns across various project activities. 
 
   *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
+  
+  <br>
 
    </div>
 
@@ -156,6 +158,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <div style="margin-left: 20px;">
 
   Tutored and supported students in lab sessions across data science coursework.
+
+  <br>
 
   </div>
 
