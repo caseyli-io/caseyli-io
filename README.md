@@ -138,8 +138,6 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 </details>
 
-<br>
-
 <details>
   <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i>
   <br><br>
@@ -162,8 +160,6 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   </div>
 
 </details>
-
-<br>
 
 <details>
   <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
