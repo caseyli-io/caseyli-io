@@ -110,8 +110,6 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <summary ><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
   <br><br>
 
-  <div style="margin-left: 20px;">
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
@@ -123,8 +121,6 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white) 
   ![City Engine](https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white) 
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
-
-  </div>
 
   </summary>
 
@@ -140,14 +136,10 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i>
   <br><br>
 
-  <div style="margin-left: 20px;">
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-4B8BBE?style=flat&logo=pandas&logoColor=white)
   ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
   ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
-  </div>
 
   </summary>
 
@@ -166,14 +158,9 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
   ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white)
   
-
   </summary>
 
-  <div style="margin-left: 20px;">
-
   Analysed Airbnb listings across New Zealand, created visualisations and maps to derive insights, identify trends, and track changes over time during the COVID-19 pandemic. Applied machine learning techniques to classify listings into distinct types based on their unique characteristics, then built an interactive R Shiny dashboard to communicate the findings and let users explore the spatial and temporal trends for themselves.
-
-  </div>
 
 </details>
 
