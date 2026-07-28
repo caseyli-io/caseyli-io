@@ -179,7 +179,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 </details>
 
-<br>
+<!-- <br> -->
 
 
 ## 🎓 Education
