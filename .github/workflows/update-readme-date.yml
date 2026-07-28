@@ -22,8 +22,8 @@ jobs:
     
       - name: Commit changes
         run: |
-          git config user.name "Casey Li"
-          git config user.email "309008043+caseyli-io@users.noreply.github.com"
+          git config --global user.name "caseyli-io"
+          git config --global user.email "309008043+caseyli-io@users.noreply.github.com"
 
           if git diff --quiet README.md; then
             echo "No changes to commit"
