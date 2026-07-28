@@ -107,7 +107,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 ## 💼 Experience
 
 <details>
-  <summary><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/" style="color:red;">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/" style="color:red;">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
+  <summary><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
   <br><br>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -150,7 +150,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 <br>
 
 <details>
-  <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory" style="color:red;">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
+  <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
   <br><br>
 
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
