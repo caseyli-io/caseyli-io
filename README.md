@@ -99,6 +99,46 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <span style="font-size:17px; font-weight:800; color:#F2C811; letter-spacing:1px;">DIGITAL TWIN</span>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" style="padding-top:10px; padding-bottom:5px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left" valign="top">
+      <a href="https://github.com/GeospatialResearch/Digital-Twins"><b>Flood Resilience Digital Twin (FReDT)</b></a>
+    </td>
+    <td align="justify">
+      The Flood Resilience Digital Twin helps quantify the potential impact of flood events on physical assets such as buildings, roads, railways, and transmission lines. It represents not only the current status of these assets, but also how they are likely to be impacted by future flood scenarios. It enables more informed predictions of flood impact and risk.
+      Data for analysis and modelling is sourced from open data portals maintained by organisations including LINZ, Stats NZ, OpenTopography, NIWA, MfE, and more.
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left" valign="top">
+      <a href="https://github.com/GeospatialResearch/Otakaro-Digital-Twin"><b>Ōtākaro Digital Twin</b></a>
+    </td>
+    <td align="justify">
+      The Ōtākaro Digital Twin is an environmental digital twin for the Ōtākaro/Avon river catchment in Christchurch, New Zealand. It brings together geospatial data visualisation and monitoring in one place. The project's purpose is guided by the Te Mana o te Wai framework and is designed to be adaptable to other locations and environments.
+    </td>
+  </tr>
+</table>
+
 <sub>More projects to be added soon.</sub>
 
 <br>
