@@ -107,8 +107,10 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 ## 💼 Experience
 
 <details>
-  <summary><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
+  <summary ><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
   <br><br>
+
+  <div style="margin-left: 20px;">
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
@@ -124,9 +126,15 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
   #### *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
+  </div>
+
   </summary>
 
+  <div style="margin-left: 20px;">
+
   Owned the end-to-end data lifecycle for geospatial research projects, from acquisition and ingestion through to processing, analysis, and delivery. Designed geospatial data engineering solutions and interactive web-based applications, and automated data pipelines that integrated and validated spatial and environmental data from multiple sources. Built risk assessment models that supported infrastructure planning and evidence-based decision-making, worked closely with researchers and stakeholders to translate requirements into scalable solutions. Also led and mentored interns across various project activities. 
+
+   </div>
 
 </details>
 
@@ -136,14 +144,22 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i>
   <br><br>
 
+  <div style="margin-left: 20px;">
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-4B8BBE?style=flat&logo=pandas&logoColor=white)
   ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
   ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
+  </div>
+
   </summary>
 
+  <div style="margin-left: 20px;">
+
   Tutored and supported students in lab sessions across data science coursework.
+
+  </div>
 
 </details>
 
@@ -153,15 +169,23 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
   <br><br>
 
+  <div style="margin-left: 20px;">
+
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   ![R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=flat&logo=r&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
   ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white)
   
+  </div>
+
   </summary>
+
+  <div style="margin-left: 20px;">
 
   Analysed Airbnb listings across New Zealand, created visualisations and maps to derive insights, identify trends, and track changes over time during the COVID-19 pandemic. Applied machine learning techniques to classify listings into distinct types based on their unique characteristics, then built an interactive R Shiny dashboard to communicate the findings and let users explore the spatial and temporal trends for themselves.
 
+  </div>
+  
 </details>
 
 <br>
