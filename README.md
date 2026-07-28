@@ -108,24 +108,19 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 <details>
   <summary><b>Geospatial Developer</b> · <a href="https://www.linkedin.com/company/building-innovation-partnership/" style="color:red;">Building Innovation Partnership</a> & <a href="https://geospatial.ac.nz/" style="color:red;">Geospatial Research Institute</a>, University of Canterbury <i>(Jun 2022 – Jun 2025)</i>
-  
-  <br>
-  <br>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS"/>
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white" alt="ArcGIS"/>
-  <img src="https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white" alt="City Engine"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <br><br>
 
-  <br>
-  <br>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+  ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white) 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white) 
+  ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white) 
+  ![City Engine](https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white) 
+  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
   *Core projects:* [<u>Flood Resilience Digital Twin</u>](https://github.com/GeospatialResearch/Digital-Twins), [<u>Ōtākaro Digital Twin</u>](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
@@ -139,9 +134,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 <details>
   <summary><b>Teaching Assistant</b> · University of Canterbury <i>(Feb 2022 – Jun 2022)</i>
-  
-  <br>
-  
+  <br><br>
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Data Manipulation](https://img.shields.io/badge/Data_Manipulation-4B8BBE?style=flat&logo=pandas&logoColor=white)
   ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
@@ -157,17 +151,12 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 <details>
   <summary><b>Data Science Intern</b> · <a href="https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-taiwhenua-o-te-hauora-geohealth-laboratory" style="color:red;">GeoHealth Laboratory</a>, University of Canterbury <i>(Nov 2021 – Feb 2022)</i>
+  <br><br>
 
-  <br>
-  <br>
-
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/R_Shiny-75AADB?style=flat&logo=r&logoColor=white" alt="R Shiny"/> 
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning"/> 
-  <img src="https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white" alt="Data Visualisation"/>
-
-  <br>
-  <br>
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+  ![R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=flat&logo=r&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+  ![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat&logo=plotly&logoColor=white)
   
   </summary>
 
