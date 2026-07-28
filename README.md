@@ -124,8 +124,6 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   ![City Engine](https://img.shields.io/badge/City_Engine-2C7AC3?style=flat&logo=esri&logoColor=white) 
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
-  #### *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
-
   </div>
 
   </summary>
@@ -133,6 +131,8 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   <div style="margin-left: 20px;">
 
   Owned the end-to-end data lifecycle for geospatial research projects, from acquisition and ingestion through to processing, analysis, and delivery. Designed geospatial data engineering solutions and interactive web-based applications, and automated data pipelines that integrated and validated spatial and environmental data from multiple sources. Built risk assessment models that supported infrastructure planning and evidence-based decision-making, worked closely with researchers and stakeholders to translate requirements into scalable solutions. Also led and mentored interns across various project activities. 
+
+  *Core projects:* [Flood Resilience Digital Twin](https://github.com/GeospatialResearch/Digital-Twins), [Ōtākaro Digital Twin](https://github.com/GeospatialResearch/Otakaro-Digital-Twin).
 
    </div>
 
@@ -185,7 +185,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
   Analysed Airbnb listings across New Zealand, created visualisations and maps to derive insights, identify trends, and track changes over time during the COVID-19 pandemic. Applied machine learning techniques to classify listings into distinct types based on their unique characteristics, then built an interactive R Shiny dashboard to communicate the findings and let users explore the spatial and temporal trends for themselves.
 
   </div>
-  
+
 </details>
 
 <br>
