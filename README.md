@@ -67,7 +67,7 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 
 ## 🚀 Projects
 
-<details>
+<!-- <details>
 <summary><b>HR Analytics Dashboard</b> · <a href="https://github.com/caseyli-io/powerbi-hr-analytics" style="color:red;">powerbi-hr-analytics</a></summary>
 <br>
 
@@ -108,6 +108,43 @@ A Power BI project analysing sales performance and key KPIs for Aurelia Bakehous
 ![Semantic Modelling](https://img.shields.io/badge/Semantic%20Modelling-2E5266?style=flat)
 ![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-C9A227?style=flat)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-8A6D3B?style=flat)
+
+<br> -->
+
+<table>
+  <tr>
+    <th colspan="2" align="left">
+      <span style="font-size:17px; font-weight:800; color:#F2C811; letter-spacing:1px;">POWER BI</span>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" style="padding-top:10px; padding-bottom:5px;">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20Query-black?style=flat&logo=powerbi&logoColor=F2C811"/>
+      <img src="https://img.shields.io/badge/DAX-6B4C9A?style=flat"/>
+      <img src="https://img.shields.io/badge/Semantic%20Modelling-2E5266?style=flat"/>
+      <img src="https://img.shields.io/badge/Data%20Visualisation-C9A227?style=flat"/>
+      <img src="https://img.shields.io/badge/Dashboard%20Design-8A6D3B?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left" valign="top">
+      <a href="https://github.com/caseyli-io/powerbi-hr-analytics"><b>HR Analytics Dashboard</b></a>
+    </td>
+    <td align="justify">
+      A Power BI project analysing workforce composition, demographics, and diversity for Aurelia Bakehouse, a fictional New Zealand bakery business. The report features a Cover page, an HR at a Glance summary, a Demographic Analysis page, and a Diversity Analysis page.
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left" valign="top">
+      <a href="https://github.com/caseyli-io/powerbi-sales-dashboard"><b>Sales Dashboard</b></a>
+    </td>
+    <td align="justify">
+      A Power BI project analysing sales performance and key KPIs for Aurelia Bakehouse, a fictional New Zealand bakery business, across time, product, sales channel, and location.
+    </td>
+  </tr>
+</table>
 
 <br>
 
