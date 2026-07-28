@@ -89,6 +89,28 @@ A Power BI project analysing workforce composition, demographics, and diversity 
 
 <br>
 
+<details>
+<summary><b>Sales Dashboard</b> · <a href="https://github.com/caseyli-io/powerbi-sales-dashboard" style="color:red;">powerbi-sales-dashboard</a></summary>
+<br>
+
+A Power BI project analysing sales performance and key KPIs for Aurelia Bakehouse, a fictional New Zealand bakery business, across time, product, sales channel, and location.
+
+*All data is fictional and AI-generated — no real customers or personal information involved.*
+
+</details>
+
+<br>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-black?style=flat&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/DAX-6B4C9A?style=flat)
+![Semantic Modelling](https://img.shields.io/badge/Semantic%20Modelling-2E5266?style=flat)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-C9A227?style=flat)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-8A6D3B?style=flat)
+
+<br>
+
 <sub>More projects to be added soon.</sub>
 
 <br>
