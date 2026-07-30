@@ -102,6 +102,34 @@ What's stayed consistent throughout is an interest in raw, complex, and messy da
 <table width="100%">
   <tr>
     <th colspan="2" align="left">
+      <span style="font-size:17px; font-weight:800; color:#F2C811; letter-spacing:1px;">TABLEAU</span>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2" align="left" style="padding-top:10px; padding-bottom:5px;">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSV-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Calculated%20Fields-6B4C9A?style=flat"/>
+      <img src="https://img.shields.io/badge/Parameters-2E5266?style=flat"/>
+      <img src="https://img.shields.io/badge/Data%20Visualisation-C9A227?style=flat"/>
+      <img src="https://img.shields.io/badge/Dashboard%20Design-8A6D3B?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left" valign="top">
+      <a href="https://github.com/caseyli-io/tableau-road-accident"><b>Road Accident Dashboard</b></a>
+    </td>
+    <td align="justify">
+      A Tableau project analysing road accident casualties across New Zealand, covering severity, location, vehicle type, weather condition, road surface condition, and road type.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
       <span style="font-size:17px; font-weight:800; color:#F2C811; letter-spacing:1px;">DIGITAL TWIN</span>
     </th>
   </tr>
