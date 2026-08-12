@@ -158,10 +158,10 @@
       <rect x="-115" y="-18" width="230" height="6" rx="3" fill="url(#accent-grad)"/>
     </g>
     <g class="reveal-2">
-      <text x="0" y="42" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="600" letter-spacing="0.3" fill="url(#role-grad)">Geospatial Developer · Data Analyst · BI Developer · Chartered Accountant</text>
+      <text x="0" y="42" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="600" letter-spacing="0.3" fill="url(#role-grad)">Geospatial Developer · Data Analyst · Chartered Accountant</text>
     </g>
     <g class="reveal-3">
-      <text x="0" y="88" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#8b84a8">Making data work harder.</text>
+      <text x="0" y="88" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#8b84a8">Making data work harder</text>
     </g>
   </g>
 
